@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287142556072",
+    "project_id": "mnitpro-9674f",
+    "storage_bucket": "mnitpro-9674f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287142556072:android:980882ff5ced79ffb7ad9d",
+        "android_client_info": {
+          "package_name": "com.example.mnitpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287142556072-6869tp844nhuuhh14svv83c4prk0um15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgtgL4fQk2Ml53r40xCNBrOAobY22325g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287142556072-6869tp844nhuuhh14svv83c4prk0um15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
